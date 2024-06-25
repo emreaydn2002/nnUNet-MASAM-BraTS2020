@@ -108,7 +108,6 @@ In this command:
 
 ## References
 
-- nnUNet: [GitHub Link](https://github.com/MIC-DKFZ/nnUNet)
 - BraTS2020 Dataset: [BraTS2020 Data](https://www.med.upenn.edu/cbica/brats2020/data.html)
 - MASAM: [GitHub Link](https://github.com/cchen-cc/MA-SAM)
 
